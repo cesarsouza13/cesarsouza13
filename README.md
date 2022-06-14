@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o @cesarsouza13.
-- 👀 Sou apaixonado por tecnologia e busco cada vez mais o aprendizado no setor de desenvoolvimento de software.
-- 🌱 Atualmente estou estudando JavaScript, HTML e Css
+- 👀 Sou apaixonado por tecnologia e busco cada vez mais o aprendizado no setor de desenvolvimento de software.
+- 🌱 Atualmente estou estudando linguagens voltadas para desenvolvimento web, JavaScript e suas tecnologias, HTML e Css.
 - 📫 Trabalho como técnico de sistemas audiovisuais
   
 <!---
