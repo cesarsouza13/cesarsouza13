@@ -45,5 +45,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![ Cyris' Github Stats ](https://github-readme-stats.vercel.app/api?username=CyrisXD&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
