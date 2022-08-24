@@ -42,3 +42,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordm
 cesarsouza13/cesarsouza13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+![ Cyris' Github Stats ](https://github-readme-stats.vercel.app/api?username=CyrisXD&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
