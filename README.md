@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm César Souza <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Audiovisual systems Technician** working at [Globo](https://vempraglobo.g.globo/#pt-BR/sites/CX_4001). My day-to-day includes work involves operating in media solution systems and journalistic operation, in addition, analyzing problems to create solutions in Power Platform development
+I'm a **Software Developer ** working at [Omnilogic].
 
 ## Skill Set :muscle:
 
