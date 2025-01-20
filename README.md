@@ -1,12 +1,12 @@
 <h1>Hi There, I'm César Souza <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Software Developer** working at [Omnilogic].
+I'm a **Software Engineer** with expertise in building scalable and efficient web applications, APIs, and backend systems. I specialize in technologies like Java, Spring Boot, React, and Elasticsearch to create high-performance systems that handle large volumes of data and provide real-time processing.
 
 ## About Me
-I'm passionate about building scalable applications, optimizing system performance, and solving complex problems. With a solid background in both back-end and front-end technologies, I contribute to impactful projects that drive business success.
+With a strong foundation in both backend and frontend development, I build robust and optimized applications that power business solutions. My focus is on creating seamless user experiences and improving system performance, working with technologies like Docker, Kubernetes, and RabbitMQ for better scalability and reliability.
 
 ## My Work Experience
-I work as a **Software Engineer** at **Omnilogic**, where I focus on developing Web features for a marketplace platform. I also create APIs, integrate with third-party services through WebHooks, and handle large datasets using Workers for real-time processing. I’m continuously improving system performance and stability with technologies like Elasticsearch and RabbitMQ.
+I have worked on diverse projects, ranging from marketplace platforms to data processing systems. My responsibilities include designing and developing APIs, implementing web features, creating integration systems using WebHooks, and optimizing data flows for performance.
 
 ## Skill Set :muscle:
 
