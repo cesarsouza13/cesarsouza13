@@ -41,4 +41,4 @@ I have worked on diverse projects, ranging from marketplace platforms to data pr
 </div>
 
 ## Let's Connect :handshake:
-<a href="https://www.linkedin.com/in/cesarsouza/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+<a href="www.linkedin.com/in/cesar-daniel"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
